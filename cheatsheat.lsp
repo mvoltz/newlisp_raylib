@@ -1,11 +1,4 @@
-; My heavy hammer approach:
-; - learn newlisp and raylib simultaneously because why not
-; - copy/paste the cheatsheet
-; - import functions without getting clever 
-; - troubleshoot the squirrely shit
-; - curse
-; - put away
-; - loop
+; mirror the raylib cheatsheet as much as possible
 
 (context 'rl)										; separate raylib symbols from MAIN context symbols
 													; functions look like this:  (rl:<function> arg1 argN)
